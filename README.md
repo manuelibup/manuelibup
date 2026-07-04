@@ -5,7 +5,7 @@
 - 📫 email me at manuel@depmi.com or DM me on X @manuelibup_
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love crypto and I'll be rich one day
-- some of my work can be seen at github.com/web5manuel
+- some of my work can be seen at [github.com/web5manuel](https://github.com/web5Manuel)
 
 <!---
 manuelibup/manuelibup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
