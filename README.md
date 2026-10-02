@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @manuelibup
 - 👀 I’m interested in building solutions for global and societal problems
 - 🌱 I’m building depmi.com a social ecommerce marketplace
-- 💞️ I’m looking to collaborate on not sure for now
+- 💞️ I’m looking to collaborate
 - 📫 email me at manuel@depmi.com or DM me on X @manuelibup_
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love crypto and I'll be rich one day
-- some of my work can be seen at [github.com/web5manuel](https://github.com/web5Manuel)
+- ⚡ Fun fact: I don't know how to give up
 
 <!---
 manuelibup/manuelibup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
